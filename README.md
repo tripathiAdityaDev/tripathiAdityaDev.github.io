@@ -156,8 +156,7 @@ This portfolio is deployed with **GitHub Pages**.
 ## 📫 Connect With Me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-tripathiAdityaDev-181717?style=flat-square&logo=github)](https://github.com/tripathiAdityaDev)
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Tripathi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-tripathi-780ab2319/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Aditya__tripathi006-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_tripathi006/)
 
@@ -170,6 +169,11 @@ For email, use the current address shown in the portfolio's contact section.
 <div align="center">
 
 **⭐ Thanks for visiting my portfolio repository!**
+
+## 👨‍💻 Author
+
+**Aditya Tripathi**
+- Netlify link: [laundry-serviceweb.netlify.app](https://laundry-serviceweb.netlify.app/)
 
 Made with ❤️ using HTML, CSS, and JavaScript.
 
