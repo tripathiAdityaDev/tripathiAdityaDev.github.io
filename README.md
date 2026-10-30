@@ -173,7 +173,7 @@ For email, use the current address shown in the portfolio's contact section.
 ## 👨‍💻 Author
 
 **Aditya Tripathi**
-- Netlify link: [laundry-serviceweb.netlify.app](https://laundry-serviceweb.netlify.app/)
+- Netlify link: https://aditya-portfolio-web.netlify.app/
 
 Made with ❤️ using HTML, CSS, and JavaScript.
 
