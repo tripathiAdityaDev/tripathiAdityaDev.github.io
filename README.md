@@ -1,144 +1,176 @@
-# Aditya Tripathi --- Developer Portfolio
+<div align="center">
 
-A responsive personal portfolio website showcasing my background,
-technical skills, projects, education, and development journey as a
-Computer Science Engineering student.
+# 👋 Hi, I'm Aditya Tripathi
 
-The website is built with **HTML, CSS, and vanilla JavaScript**. It uses
-a dark interface, responsive layouts, and simple interactive navigation.
+### 💻 Computer Science Engineering Student | Developer
 
-## Live Website
+I build responsive web experiences and explore Java backend development, databases, and software engineering.
 
-[Visit my portfolio](https://tripathiadityadev.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-79e0c3?style=for-the-badge)](https://tripathiadityadev.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/tripathiAdityaDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tripathi-780ab2319/)
 
-## Features
+</div>
 
--   Responsive layout for desktop, tablet, and mobile screens.
--   Sticky navigation bar with a mobile menu.
--   About section with an introduction and quick facts.
--   Skills section covering programming, frontend, backend, databases,
-    and development tools.
--   Project cards describing completed and ongoing work.
--   Education, learning milestones, and certifications section.
--   Contact links for email, LinkedIn, GitHub, and LeetCode.
--   Smooth scrolling and subtle hover interactions.
--   Automatically updated copyright year.
--   Reduced-motion support for visitors who prefer less animation.
+---
 
-## Tech Stack
+## 📌 About This Project
 
--   **HTML5** --- page structure and content.
--   **CSS3** --- styling, grid and flexbox layouts, responsive
-    breakpoints, and visual effects.
--   **JavaScript** --- mobile navigation interaction and dynamic footer
-    year.
--   **Google Fonts** --- Manrope and DM Mono.
+This repository contains my **personal developer portfolio**. It brings together my introduction, technical skills, selected projects, education, learning milestones, and contact information in one place.
 
-## Projects Featured
+The site uses a dark visual theme with responsive layouts, a mobile navigation menu, and lightweight JavaScript interactions.
 
-  -----------------------------------------------------------------------
-  Project                 Description             Status
-  ----------------------- ----------------------- -----------------------
-  Library Management      Database project for    Listed in portfolio
-  System                  books, members,         
-                          publishers, and         
-                          borrowing records, with 
-                          SQL queries and         
-                          relational design.      
+## ✨ Features
 
-  Laundry Service Booking Responsive              Live project linked
-  Web Application         service-booking         
-                          interface with a        
-                          shopping cart, price    
-                          calculation, booking    
-                          form, and EmailJS       
-                          notifications.          
+- 📱 Responsive design for desktop, tablet, and mobile
+- 🧭 Sticky navigation with a mobile menu
+- 👨‍💻 About section and quick facts
+- 🛠️ Skills grouped by technology and subject area
+- 🚀 Project cards for completed and ongoing work
+- 🎓 Education, learning milestones, and certifications
+- 📬 Contact links for email and professional profiles
+- ↗️ Smooth scrolling and subtle hover effects
+- 🗓️ Automatically updated copyright year
+- ♿ Reduced-motion preference support
 
-  Campus Club Membership  Java web application    In progress
-  Management System       for student and club    
-                          membership workflows,   
-                          CRUD operations, and    
-                          Hibernate               
-                          relationships.          
-  -----------------------------------------------------------------------
+## 🧰 Tech Stack
 
-## Project Structure
+<div align="center">
 
-The HTML file references the stylesheet at `css/style.css` and
-JavaScript at `js/script.js`. Keep this folder structure when uploading
-the project:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-``` text
-portfolio/
+</div>
+
+| Technology | How it is used |
+|---|---|
+| **HTML5** | Page structure and content |
+| **CSS3** | Theme, layouts, responsive breakpoints, and visual effects |
+| **JavaScript** | Mobile navigation and dynamic footer year |
+| **Google Fonts** | Manrope and DM Mono typography |
+| **GitHub Pages** | Static website hosting |
+
+## 🚀 Featured Projects
+
+### 🧺 Laundry Service Booking Web Application
+
+A responsive web application where customers can explore laundry services, add services to a cart, calculate booking costs, and submit service requests.
+
+- Dynamic cart with add/remove functionality
+- Automatic total price calculation
+- Booking form and EmailJS email notifications
+- Responsive service listings and booking interface
+
+**Built with:** `HTML` · `CSS` · `JavaScript` · `EmailJS`
+
+[🌐 Live Demo](https://laundry-serviceweb.netlify.app/)
+
+### 📚 Library Management System
+
+A database project for managing books, library members, publishers, and borrowing records.
+
+- Structured relational data design
+- SQL queries for retrieval and reporting
+- Database normalization and relationships
+- Borrowing record and overdue tracking
+
+**Built with:** `PostgreSQL` · `SQL` · `Database Design`
+
+### 🏫 Campus Club Membership Management System
+
+An ongoing Java web application designed to help students explore campus clubs and manage memberships.
+
+- Student and club CRUD workflows
+- Student–Club many-to-many relationship using Hibernate
+- Thymeleaf form binding and validation
+- Session-based login and membership-capacity checks
+
+**Built with:** `Java` · `Hibernate` · `Servlets` · `Thymeleaf` · `MySQL`
+
+> This project is currently in progress.
+
+## 🗂️ Repository Structure
+
+Keep the files in the following structure so the stylesheet and JavaScript paths in `index.html` work correctly:
+
+```text
+tripathiAdityaDev.github.io/
+│
 ├── index.html
+├── README.md
 ├── css/
 │   └── style.css
-├── js/
-│   └── script.js
-└── README.md
+└── js/
+    └── script.js
 ```
 
-If you add images or other assets, create an `images/` or `assets/`
-folder and update the relevant paths in `index.html`.
+If you add images, create an `images/` or `assets/` folder and update the paths in your HTML.
 
-## Run Locally
+## 💻 Run Locally
 
-1.  Clone the repository:
+1. Clone this repository:
 
-    ``` bash
-    git clone https://github.com/tripathiAdityaDev/tripathiAdityaDev.github.io.git
-    ```
+   ```bash
+   git clone https://github.com/tripathiAdityaDev/tripathiAdityaDev.github.io.git
+   ```
 
-2.  Open the project folder:
+2. Move into the project directory:
 
-    ``` bash
-    cd tripathiAdityaDev.github.io
-    ```
+   ```bash
+   cd tripathiAdityaDev.github.io
+   ```
 
-3.  Check that `index.html`, `css/style.css`, and `js/script.js` are in
-    the locations shown in the project structure.
+3. Open `index.html` in your browser.
 
-4.  Open `index.html` in your browser, or use the Live Server extension
-    in VS Code.
+4. For a smoother development workflow, open the folder in **VS Code** and use the Live Server extension.
 
-## Deployment with GitHub Pages
+## 🌍 Deployment
 
-This portfolio is hosted using GitHub Pages.
+This portfolio is deployed with **GitHub Pages**.
 
-1.  Push the project files to the `main` branch of the repository.
-2.  Open the repository's **Settings** tab.
-3.  Select **Pages**.
-4.  Under **Build and deployment**, choose **Deploy from a branch**.
-5.  Select the `main` branch and the `/ (root)` folder.
-6.  Save and wait for GitHub Pages to publish the site.
+1. Push the website files to the `main` branch.
+2. Open the repository's **Settings → Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select branch `main` and folder `/ (root)`.
+5. Save and wait for the deployment to finish.
 
-The published website is available at:
+<div align="center">
 
-https://tripathiadityadev.github.io/
+### 🔗 Live Portfolio
 
-## Customization
+[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-79e0c3?style=for-the-badge&logo=googlechrome&logoColor=black)](https://tripathiadityadev.github.io/)
 
-To update the portfolio:
+</div>
 
--   Edit personal information, project details, education, and contact
-    links in `index.html`.
--   Change colors, spacing, typography, and responsive layouts in
-    `css/style.css`.
--   Update menu behavior or other interactions in `js/script.js`.
--   Keep file paths consistent when adding or moving files.
+## 🛣️ Planned Improvements
 
-## Contact
+- [ ] Add a downloadable resume
+- [ ] Add GitHub repository links to each project
+- [ ] Add project screenshots and previews
+- [ ] Add a favicon and social-sharing metadata
+- [ ] Review accessibility and keyboard navigation
+- [ ] Keep project details and skills updated as I learn
 
--   **GitHub:**
-    [tripathiAdityaDev](https://github.com/tripathiAdityaDev)
--   **LinkedIn:** [Aditya
-    Tripathi](https://www.linkedin.com/in/aditya-tripathi-780ab2319/)
--   **LeetCode:**
-    [Aditya_tripathi006](https://leetcode.com/u/Aditya_tripathi006/)
+## 📫 Connect With Me
 
-For email, use the address currently listed in the portfolio's contact
-section.
+<div align="center">
 
-------------------------------------------------------------------------
+[![GitHub](https://img.shields.io/badge/GitHub-tripathiAdityaDev-181717?style=flat-square&logo=github)](https://github.com/tripathiAdityaDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Tripathi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-tripathi-780ab2319/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Aditya__tripathi006-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_tripathi006/)
 
-Built with HTML, CSS, and JavaScript by **Aditya Tripathi**.
+</div>
+
+For email, use the current address shown in the portfolio's contact section.
+
+---
+
+<div align="center">
+
+**⭐ Thanks for visiting my portfolio repository!**
+
+Made with ❤️ using HTML, CSS, and JavaScript.
+
+</div>
